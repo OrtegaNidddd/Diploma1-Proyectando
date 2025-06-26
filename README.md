@@ -3,6 +3,10 @@
 
 Diploma #1 de proyectando, maquetado en TailwindCSS
 
+### Repositorio
+
+[https://github.com/OrtegaNidddd/diploma-proyectando-1](https://github.com/OrtegaNidddd/diploma-proyectando-1)
+
 ## Recomendación
 
 Recomiendo usar Tailwind con CDN porque puede ser que no carguen bien los estilos de las imagenes.
