@@ -38,3 +38,7 @@ Version de Tailwind usada: v4.1
 2. Luego ir a la herramienta y soltar la imagen, ella automaticamente a la parte derecha dara el codigo.
 
 3. Copiar codigo y pegar en el IDE.
+
+### Evidencia del diploma
+
+![image](https://github.com/user-attachments/assets/e84ddd02-053a-4c95-a2b9-fdd98542f3cc)
