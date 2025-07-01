@@ -42,3 +42,7 @@ Version de Tailwind usada: v4.1
 ### Evidencia del diploma
 
 ![image](https://github.com/user-attachments/assets/e84ddd02-053a-4c95-a2b9-fdd98542f3cc)
+
+### Original
+
+![image](https://github.com/user-attachments/assets/c78f1546-878d-4613-a035-d6765f45e3bf)
