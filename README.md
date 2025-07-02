@@ -33,7 +33,7 @@ Version de Tailwind usada: v4.1
 
 ### Como usarla
 
-1. Se debe crear la forma/imagen en Canva y exportarla en formato SVG con fondo transparente
+1. Se debe crear la forma/imagen en Figma o Canva y exportarla en formato SVG con fondo transparente
 
 2. Luego ir a la herramienta y soltar la imagen, ella automaticamente a la parte derecha dara el codigo.
 
